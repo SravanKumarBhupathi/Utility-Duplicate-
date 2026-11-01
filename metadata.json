@@ -1,0 +1,8 @@
+{
+  "name": "UtilitySpace",
+  "description": "Free online tools, practical calculators, and helpful guides for everyday digital tasks.",
+  "prompt": "UtilitySpace - Free online tools and calculators",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
